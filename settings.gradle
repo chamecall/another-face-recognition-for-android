@@ -1,0 +1,3 @@
+rootProject.name='custom_face_recognition'
+include ':app'
+include ':openCVLibrary343'

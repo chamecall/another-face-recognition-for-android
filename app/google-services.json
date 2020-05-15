@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "388078232648",
+    "firebase_url": "https://pytorchdemoapp.firebaseio.com",
+    "project_id": "pytorchdemoapp",
+    "storage_bucket": "pytorchdemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388078232648:android:2a6932c66ce0c4eb97647d",
+        "android_client_info": {
+          "package_name": "com.example.custom_face_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388078232648-2nc6vmu9m101c80m37b6r21jmkm6skb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.custom_face_recognition",
+            "certificate_hash": "1ece072283ebea89c6f0b7a2ed987e0f57ac9758"
+          }
+        },
+        {
+          "client_id": "388078232648-1vdq70lrs1nit68vt5semnkt5rpbn9me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.custom_face_recognition",
+            "certificate_hash": "b6dc2b928f9b43ccb89350399c2b7db5418a5f9b"
+          }
+        },
+        {
+          "client_id": "388078232648-ertcm7la3r7ftiestpjdkqn2ldo538he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpY4UVlNJ73vFmXDED-RTJmVCvohTXf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388078232648-ertcm7la3r7ftiestpjdkqn2ldo538he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
